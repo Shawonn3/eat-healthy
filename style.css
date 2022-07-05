@@ -4,19 +4,10 @@ body{
 .recipi-flexyble-containe{
     text-align: center;
 }
-.title-flexyble-containe{
-    
-}
 #flx{
     display: flex;
     margin-top: 50px;
     margin-bottom: 100px;
-}
-#pan{
-
-}
-.ti{
-    
 }
 .ti img{
     width: 300px;
